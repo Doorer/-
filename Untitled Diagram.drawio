@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T09:18:30.950Z" agent="5.0 (X11; Linux loongarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36" etag="aMu7qXTe_SHEznmQ4pV4" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T09:21:35.571Z" agent="5.0 (X11; Linux loongarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36" etag="iyxrza8_EM2GWCuaB3QI" version="18.0.6" type="github">
   <diagram id="aV5w22nhNH_Wzgc8BO7l" name="Page-1">
     <mxGraphModel dx="1902" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgCIcN8HCtVji7_G_k5s-56" value="lmg package" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#003366;fillColor=#009999;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="1355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgCIcN8HCtVji7_G_k5s-57" value="lmgbuild" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#003366;fillColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="390" y="1240" width="154" height="290" as="geometry" />
@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="MgCIcN8HCtVji7_G_k5s-84" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="2229.5" as="sourcePoint" />
-            <mxPoint x="404" y="2230" as="targetPoint" />
+            <mxPoint x="256" y="2238.25" as="sourcePoint" />
+            <mxPoint x="390" y="2238.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MgCIcN8HCtVji7_G_k5s-85" value="lmg package" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#003366;fillColor=#009999;" vertex="1" parent="1">
@@ -188,10 +188,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MgCIcN8HCtVji7_G_k5s-97" value="os" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="2400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgCIcN8HCtVji7_G_k5s-98" value="loongker" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
           <mxGeometry x="1015" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgCIcN8HCtVji7_G_k5s-100" value="运行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2200" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
